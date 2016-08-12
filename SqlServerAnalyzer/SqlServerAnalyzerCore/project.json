@@ -1,0 +1,21 @@
+﻿{
+  "title": "SQL Server Analyzer Core Library",
+  "description": "Creates UI to analyze an existing SQL Server database instance.",
+  "copyright": "Copyright © 2015",
+  "authors": [
+    "Kennedy Labs",
+    "Kevin Kennedy"
+  ],
+  "language": "en-US",
+  "version": "1.0.0-*",
+
+  "dependencies": {
+    "NETStandard.Library": "1.6.0"
+  },
+
+  "frameworks": {
+    "netstandard1.6": {
+      "imports": "dnxcore50"
+    }
+  }
+}
